@@ -1,6 +1,6 @@
 # Werd
 
-Installers and updates for [Werd](https://werd.dev), a local development environment for Laravel and PHP on Windows, macOS and Linux.
+Installers and updates for Werd, a local development environment for Laravel and PHP on Windows, macOS and Linux.
 
 Download the installer for your system from the [latest release](https://github.com/JustFlavio/werd-releases/releases/latest). Werd updates itself afterwards: when a new version is out, an update button appears at the bottom of the sidebar.
 
